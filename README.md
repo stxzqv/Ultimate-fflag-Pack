@@ -1,6 +1,8 @@
 # Ultimate-fflag-Pack
 All fflags for Roblox Bloxstrap
 
+Credits: https://github.com/NoobLikesThis
+
 ### [fflags folder for textures and other](https://www.mediafire.com/folder/7lkiidpn7fui9/Documents)
 ##### tip: turn your graphics level to 3 or higher or use quality level overide fflag and make 6 or higher:
 ###### max is 21, I recommend 14, use graphics quality 6 for the same without the fflag.
